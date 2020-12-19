@@ -9,6 +9,6 @@ NY net long positions:MM: +17k
 HH net long positions:PM: +110k!                              
 
 2018
-                      181113                        181120            
-NY net long positions:MM: top out                   MM: down trend, volatile prices     
-HH net long positions:SD: -177k, OR: +111k!         PM: +139k!, OR: -80k
+                      180123                        180130                                       181113                        181120            
+NY net long positions:MM: +66k!, up trend           MM: top out, is late                         MM: top out                   MM: down trend, volatile prices     
+HH net long positions:SD: -105k, OR: +69k!                                                        SD: -177k, OR: +111k!         PM: +139k!, OR: -80k
